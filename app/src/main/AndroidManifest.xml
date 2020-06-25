@@ -19,9 +19,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".AddPlace" />
-        <activity android:name=".StoragePlace" />
-        <activity android:name=".StoragePlace2"></activity>
+
     </application>
 
 </manifest>

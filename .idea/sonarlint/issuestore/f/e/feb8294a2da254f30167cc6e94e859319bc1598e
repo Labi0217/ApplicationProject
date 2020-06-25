@@ -1,0 +1,13 @@
+
+v
+java:S1450"YRemove the "myListView" field and declare it as a local variable in the relevant methods.(–°á8»˜Ìþ­.
+T
+java:S1128
+"2Remove this unused import 'android.widget.Button'.(²òžýÿÿÿÿ8œµ¤ô¤.
+Q
+java:S3740"/Provide the parametrized type for this generic.(± ±öùÿÿÿÿ8 Öž­¬.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(± ±öùÿÿÿÿ8 Öž­¬.
+O
+java:S1172>"-Remove this unused method parameter "target".(ÝÃ±¼ÿÿÿÿÿ8 Öž­¬.
+V
+java:S1128"4Remove this unused import 'android.widget.TextView'.(„Ë‚ˆÿÿÿÿÿ8îË…ª¬.
