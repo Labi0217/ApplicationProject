@@ -1,63 +1,63 @@
 
-W
-java:S4973Œ"9Use the "equals" method if value comparison was intended.(È½ƒ±8íÕ«§®.
-r	java:S117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿûÃòşÿÿÿÿ8ñÅæ›®.
-V
-java:S4973t"9Use the "equals" method if value comparison was intended.(ŒÏã‚8İ­¼¦®.
-I
-java:S1172"+Remove this unused method parameter "view".(æ—ò¡8Øµ¡©®.
-N
-java:S1172´"+Remove this unused method parameter "view".(í¥Ù–øÿÿÿÿ8Øµ¡©®.
-[
-java:S4973x"9Use the "equals" method if value comparison was intended.(Ì±«ùÿÿÿÿ8İ­¼¦®.
-[
-java:S4973r"9Use the "equals" method if value comparison was intended.(’ÿÂÿÿÿÿÿ8ü¿­¦®.
 \
 java:S4973„"9Use the "equals" method if value comparison was intended.(à¢¯¸øÿÿÿÿ8íÕ«§®.
-l
-java:S1192&"PDefine a constant instead of duplicating this literal "ì„œìš¸íŠ¹ë³„ì‹œ" 3 times.(â——v8ì©æ¥®.
-Q
-java:S1128"4Remove this unused import 'android.widget.EditText'.(†Å›Ú8Ï­ş©¬.
+F	java:S108İ")Either remove or fill this block of code.(”ı¾8Øµ¡©®.
+s	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿûÃòşÿÿÿÿ8ñÅæ›®.
+W
+java:S4973‚"9Use the "equals" method if value comparison was intended.(Ù·ïú8íÕ«§®.
+[
+java:S4973~"9Use the "equals" method if value comparison was intended.(Ãù§Üşÿÿÿÿ8íÕ«§®.
+[
+java:S4973x"9Use the "equals" method if value comparison was intended.(Ì±«ùÿÿÿÿ8İ­¼¦®.
+m
+java:S1192'"PDefine a constant instead of duplicating this literal "ë¶€ì‚°ê´‘ì—­ì‹œ" 3 times.(ŞÀ8İ­¼¦®.
+W
+java:S4973Š"9Use the "equals" method if value comparison was intended.(Şÿ¤’8íÕ«§®.
+N
+java:S1172´"+Remove this unused method parameter "view".(í¥Ù–øÿÿÿÿ8Øµ¡©®.
+W
+java:S4973Œ"9Use the "equals" method if value comparison was intended.(È½ƒ±8íÕ«§®.
 m
 java:S1192'"PDefine a constant instead of duplicating this literal "ëŒ€ì „ê´‘ì—­ì‹œ" 3 times.(ŞÀ8Íè¼¦®.
 V
-java:S4973v"9Use the "equals" method if value comparison was intended.(ë¯¸±8İ­¼¦®.
-t
-java:S3776,"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(¨Œşÿÿÿÿ8Øµ¡©®.
-W
-java:S4973ˆ"9Use the "equals" method if value comparison was intended.(á¥Âé8íÕ«§®.
-[
-java:S4973~"9Use the "equals" method if value comparison was intended.(Ãù§Üşÿÿÿÿ8íÕ«§®.
-\
-java:S4973€"9Use the "equals" method if value comparison was intended.(æª…úÿÿÿÿ8íÕ«§®.
-m
-java:S1192'"PDefine a constant instead of duplicating this literal "ëŒ€êµ¬ê´‘ì—­ì‹œ" 3 times.(ŞÀ8İ­¼¦®.
-V
 java:S4973z"9Use the "equals" method if value comparison was intended.(âğ¤8íÕ«§®.
-s	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿûÃòşÿÿÿÿ8ñÅæ›®.
+I
+java:S1172"+Remove this unused method parameter "view".(æ—ò¡8Øµ¡©®.
 \
 java:S4973†"9Use the "equals" method if value comparison was intended.(ºõËïùÿÿÿÿ8íÕ«§®.
 v
 java:S2293a"YReplace the type specification in this constructor call with the diamond operator ("<>").(ï€³İ8Øµ¡©®.
+[
+java:S4973|"9Use the "equals" method if value comparison was intended.(æÿÇıÿÿÿÿÿ8íÕ«§®.
 x
 java:S1192("VDefine a constant instead of duplicating this literal "ì œì£¼íŠ¹ë³„ìì¹˜ë„" 3 times.(½“ˆĞÿÿÿÿÿ8å¨¿¦®.
 l
-java:S1192&"PDefine a constant instead of duplicating this literal "ìš¸ì‚°ê´‘ì—­ì‹œ" 3 times.(â——v8İ­¼¦®.
-m
-java:S1192'"PDefine a constant instead of duplicating this literal "ë¶€ì‚°ê´‘ì—­ì‹œ" 3 times.(ŞÀ8İ­¼¦®.
-[
-java:S4973|"9Use the "equals" method if value comparison was intended.(æÿÇıÿÿÿÿÿ8íÕ«§®.
+java:S1192&"PDefine a constant instead of duplicating this literal "ì„œìš¸íŠ¹ë³„ì‹œ" 3 times.(â——v8ì©æ¥®.
+r	java:S117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿûÃòşÿÿÿÿ8ñÅæ›®.
 V
-java:S4973p"9Use the "equals" method if value comparison was intended.(Ş¾à8ÙÛŞ¥®.
+java:S4973v"9Use the "equals" method if value comparison was intended.(ë¯¸±8İ­¼¦®.
+V
+java:S4973t"9Use the "equals" method if value comparison was intended.(ŒÏã‚8İ­¼¦®.
+[
+java:S4973r"9Use the "equals" method if value comparison was intended.(’ÿÂÿÿÿÿÿ8ü¿­¦®.
 W
-java:S4973Š"9Use the "equals" method if value comparison was intended.(Şÿ¤’8íÕ«§®.
+java:S4973ˆ"9Use the "equals" method if value comparison was intended.(á¥Âé8íÕ«§®.
+l
+java:S1192&"PDefine a constant instead of duplicating this literal "ìš¸ì‚°ê´‘ì—­ì‹œ" 3 times.(â——v8İ­¼¦®.
+s	java:S117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿûÃòşÿÿÿÿ8ñÅæ›®.
 I
 java:S1172Â"+Remove this unused method parameter "view".(ÇÈöü8Øµ¡©®.
-l
-java:S1192&"PDefine a constant instead of duplicating this literal "ì¸ì²œê´‘ì—­ì‹œ" 3 times.(â——v8ü¿­¦®.
-F	java:S108İ")Either remove or fill this block of code.(”ı¾8Øµ¡©®.
+V
+java:S4973p"9Use the "equals" method if value comparison was intended.(Ş¾à8ÙÛŞ¥®.
+Q
+java:S1128"4Remove this unused import 'android.widget.EditText'.(†Å›Ú8Ï­ş©¬.
 m
 java:S1192'"PDefine a constant instead of duplicating this literal "ê´‘ì£¼ê´‘ì—­ì‹œ" 3 times.(ŞÀ8İ­¼¦®.
-W
-java:S4973‚"9Use the "equals" method if value comparison was intended.(Ù·ïú8íÕ«§®.
-s	java:S117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿûÃòşÿÿÿÿ8ñÅæ›®.
+m
+java:S1192'"PDefine a constant instead of duplicating this literal "ëŒ€êµ¬ê´‘ì—­ì‹œ" 3 times.(ŞÀ8İ­¼¦®.
+l
+java:S1192&"PDefine a constant instead of duplicating this literal "ì¸ì²œê´‘ì—­ì‹œ" 3 times.(â——v8ü¿­¦®.
+\
+java:S4973€"9Use the "equals" method if value comparison was intended.(æª…úÿÿÿÿ8íÕ«§®.
+t
+java:S3776,"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(¨Œşÿÿÿÿ8Øµ¡©®.
