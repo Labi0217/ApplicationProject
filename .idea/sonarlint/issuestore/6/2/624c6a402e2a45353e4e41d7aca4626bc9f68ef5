@@ -1,24 +1,24 @@
 
-L
-java:S3740W"/Provide the parametrized type for this generic.(´à¼¢8å²Œ§®.
-K
-java:S1125[")Remove the literal "false" boolean value.(Ì­Çøÿÿÿÿ8ä¦Ñ§®.
-
-java:S1319V"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ñåé—8ä¦Ñ§®.
-t
-java:S11920"RUse already-defined constant 'NOTE_CONTENT' instead of duplicating its value here.(ÓŞô©ûÿÿÿÿ8«è¥­¬.
-|
-java:S1488?"_Immediately return this expression instead of assigning it to the temporary variable "numRows".(î¦˜í8ä¦Ñ§®.
 l
 java:S11921"OUse already-defined constant 'NOTE_COST' instead of duplicating its value here.(Ñ÷¿›8«è¥­¬.
-w
-java:S14889"[Immediately return this expression instead of assigning it to the temporary variable "res".(±Ëè8ä¦Ñ§®.
+q
+java:S1192-"OUse already-defined constant 'NOTE_AREA' instead of duplicating its value here.(™Ó“¬úÿÿÿÿ8¬Ûø®.
 L
 java:S3740W"/Provide the parametrized type for this generic.(´à¼¢8ä¦Ñ§®.
-l
-java:S1192/"OUse already-defined constant 'NOTE_NAME' instead of duplicating its value here.(ø×–Ï8ä¦Ñ§®.
+w
+java:S14889"[Immediately return this expression instead of assigning it to the temporary variable "res".(±Ëè8ä¦Ñ§®.
+|
+java:S1488?"_Immediately return this expression instead of assigning it to the temporary variable "numRows".(î¦˜í8ä¦Ñ§®.
 L
 java:S3740V"/Provide the parametrized type for this generic.(ñåé—8ä¦Ñ§®.
+t
+java:S11920"RUse already-defined constant 'NOTE_CONTENT' instead of duplicating its value here.(ÓŞô©ûÿÿÿÿ8èğˆù®.
 m	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´à¼¢8ä¦Ñ§®.
-q
-java:S1192-"OUse already-defined constant 'NOTE_AREA' instead of duplicating its value here.(™Ó“¬úÿÿÿÿ8İ¤ËŒ®.
+K
+java:S1125[")Remove the literal "false" boolean value.(Ì­Çøÿÿÿÿ8ä¦Ñ§®.
+L
+java:S3740W"/Provide the parametrized type for this generic.(´à¼¢8å²Œ§®.
+l
+java:S1192/"OUse already-defined constant 'NOTE_NAME' instead of duplicating its value here.(ø×–Ï8ä¦Ñ§®.
+
+java:S1319V"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ñåé—8ä¦Ñ§®.

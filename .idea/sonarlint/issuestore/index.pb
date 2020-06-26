@@ -44,3 +44,5 @@ A
 gradlew.bat,2\a\2a45a911a8f1836b0b6c5b758962572012d8f8c3
 ?
 settings.gradle,0\5\05efc8b1657769a27696d478ded1e95f38737233
+^
+.app/src/main/res/layout/activity_add_place.xml,5\a\5a0786e4f5bcafd4b4d56f9ae7b2c41bd60e3514

@@ -1,6 +1,6 @@
 
-r	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ášÏ‹øÿÿÿÿ8€Í÷º¤.
 U
 java:S1197'"8Move the array designator from the variable to the type.(ÿß¿¡8€Í÷º¤.
+r	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ášÏ‹øÿÿÿÿ8€Í÷º¤.
 8
 java:S1643*"Use a StringBuilder instead.(ãÞãq8€Í÷º¤.
