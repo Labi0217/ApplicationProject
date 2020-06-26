@@ -27,10 +27,6 @@ j
 :app/src/main/java/com/sohee/applicationproject/Option.java,d\4\d4bffefa8c8806aa8ec29dca73f1afb33bb326c2
 l
 <app/src/main/java/com/sohee/applicationproject/DBHelper.java,6\2\624c6a402e2a45353e4e41d7aca4626bc9f68ef5
-Y
-)app/src/main/res/layout/activity_main.xml,7\6\76b07e40f24cce093536731477540f12e7da3cb6
-\
-,app/src/main/res/layout/activity_storage.xml,4\0\4098250a7b313bcd261dc62e5f347347314e948c
 L
 .idea/codeStyles/Project.xml,6\e\6ecd6000a7b6f4a2884412ff19f74193ed089648
 X

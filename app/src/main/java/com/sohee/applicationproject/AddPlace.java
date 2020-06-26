@@ -23,7 +23,7 @@ public class AddPlace extends AppCompatActivity {
 
     private DBHelper mydb;
     TextView name;
-    TextView director;
+    TextView placename;
     TextView area;
     TextView classify;
     TextView content;
@@ -47,7 +47,7 @@ public class AddPlace extends AppCompatActivity {
         areareal = (TextView)findViewById(R.id.textView1);
         classifyreal = (TextView)findViewById(R.id.textView4);
         name = (TextView) findViewById(R.id.editTextLocation);
-        director = (TextView) findViewById(R.id.editTextName);
+        placename = (TextView) findViewById(R.id.editTextName);
         area = (TextView)findViewById(R.id.TextArea);
         classify = (TextView)findViewById(R.id.TextClassify);
         content = (TextView) findViewById(R.id.editTextContent);
@@ -77,7 +77,7 @@ public class AddPlace extends AppCompatActivity {
                 id = Value;
                 rs.moveToFirst();
                 String n = rs.getString(rs.getColumnIndex(DBHelper.NOTE_LOCATION));
-                String d = rs.getString(rs.getColumnIndex(DBHelper.NOTE_NAME));
+                String p = rs.getString(rs.getColumnIndex(DBHelper.NOTE_NAME));
                 String a = rs.getString(rs.getColumnIndex(DBHelper.NOTE_AREA));
                 String con = rs.getString(rs.getColumnIndex(DBHelper.NOTE_CONTENT));
                 String co = rs.getString(rs.getColumnIndex(DBHelper.NOTE_COST));
@@ -88,7 +88,7 @@ public class AddPlace extends AppCompatActivity {
                 b.setVisibility(View.INVISIBLE);
 
                 name.setText((CharSequence) n);
-                director.setText((CharSequence) d);
+                placename.setText((CharSequence) p);
                 area.setText((CharSequence)a);
                 content.setText((CharSequence) con);
                 cost.setText((CharSequence) co);
@@ -159,7 +159,7 @@ public class AddPlace extends AppCompatActivity {
         if (extras != null) {
             int Value = extras.getInt("id");
             if (Value > 0) {
-                if (mydb.updateNote(id, area.getText().toString(), name.getText().toString(), director.getText().toString(), content.getText().toString(), cost.getText().toString())) {
+                if (mydb.updateNote(id, area.getText().toString(), name.getText().toString(), placename.getText().toString(), content.getText().toString(), cost.getText().toString())) {
                     Toast.makeText(getApplicationContext(), "수정되었음", Toast.LENGTH_SHORT).show();
                     Intent intent = new Intent(getApplicationContext(), StoragePlace.class);
                     startActivity(intent);
@@ -167,7 +167,7 @@ public class AddPlace extends AppCompatActivity {
                     Toast.makeText(getApplicationContext(), "수정되지 않았음", Toast.LENGTH_SHORT).show();
                 }
             } else {
-                if (mydb.insertNote(area.getText().toString(), name.getText().toString(), director.getText().toString(), content.getText().toString(), cost.getText().toString())) {
+                if (mydb.insertNote(area.getText().toString(), name.getText().toString(), placename.getText().toString(), content.getText().toString(), cost.getText().toString())) {
                     Toast.makeText(getApplicationContext(), "추가되었음", Toast.LENGTH_SHORT).show();
                 } else {
                     Toast.makeText(getApplicationContext(), "추가되지 않았음", Toast.LENGTH_SHORT).show();
@@ -196,7 +196,7 @@ public class AddPlace extends AppCompatActivity {
         if (extras != null) {
             int value = extras.getInt("id");
             if (value > 0) {
-                if (mydb.updateNote(id, area.getText().toString(), name.getText().toString(), director.getText().toString(), content.getText().toString(), cost.getText().toString())) {
+                if (mydb.updateNote(id, area.getText().toString(), name.getText().toString(), placename.getText().toString(), content.getText().toString(), cost.getText().toString())) {
                     Toast.makeText(getApplicationContext(), "수정되었음", Toast.LENGTH_SHORT).show();
                     finish();
                 } else {
